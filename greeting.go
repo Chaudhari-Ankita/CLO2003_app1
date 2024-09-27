@@ -1,5 +1,5 @@
 package main
 
 func greeting() {
-	print("Hello World!")
+	print("Hello World!\n")
 }

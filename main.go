@@ -1,5 +1,10 @@
 package main
 
 func main() {
-	print("hello world!\n")
+
+	greeting()
+	println(AddInt(2, 4))
+	httpport(80)
+	advancegreeting()
+
 }
